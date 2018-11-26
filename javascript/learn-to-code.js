@@ -1,27 +1,41 @@
-var name = "Krissy";
-var age = 30;
+// var name = "Krissy";
+// var age = 30;
 
-var message = "Hi, my name is " + name + " and I am " + age + " years old.";
-console.log(message);
+// var message = "Hi, my name is " + name + " and I am " + age + " years old.";
+// console.log(message);
 
-var template = `${name} can write code.`
-console.log(template);
+// var template = `${name} can write code.`
+// console.log(template);
 
-var firstName = "Adam";
-var age = 23;
+// var firstName = "Adam";
+// var age = 23;
 
-var loginWelcomeMessage = "Welcome, " + firstName + ". Happy " + age + "rd birthday!" ;
+// var loginWelcomeMessage = "Welcome, " + firstName + ". Happy " + age + "rd birthday!" ;
 
-console.log(loginWelcomeMessage);
+// console.log(loginWelcomeMessage);
 
-var sum = 10 + 15;
-var sub = 15 - 10;
-var mul = 10 * 3;
-var div = 10 / 3;
-var mod = 10 % 3;
+// var sum = 10 + 15;
+// var sub = 15 - 10;
+// var mul = 10 * 3;
+// var div = 10 / 3;
+// var mod = 10 % 3;
 
-var msg = "10 / 3 = 3 with a remainder of " + mod;
-console.log(msg);
+// var msg = "10 / 3 = 3 with a remainder of " + mod;
+// console.log(msg);
 
-var result = 10 * ((5 + 3) - 4);
-console.log(result);
+// var result = 10 * ((5 + 3) - 4);
+// console.log(result);
+// // var studentNames = ["Timmy","Janessa","Arun"];
+
+// // var badStudentList = [];
+// // badStudentList.push(studentNames[0]);
+
+// // var index = badStudentList.indexOf("Timmy");
+
+// // //console.log(badStudentList);
+
+// // if (index > -1) {
+// //   badStudentList.splice(index, 1);
+// // }
+
+// // console.log(badStudentList);
